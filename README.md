@@ -211,7 +211,7 @@
 <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=letteldream.letteldream" />
 <img align="right" src="https://img.shields.io/github/followers/letteldream?label=Follow&style=social" />
 <h1 align="center"></h1>
-<img align="left" height="300px" src="https://activity-graph.herokuapp.com/graph?username=letteldream&theme=github&count_private=true" />
+
 
 ## Blog 🖥
 
