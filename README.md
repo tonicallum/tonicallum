@@ -19,7 +19,7 @@
     <img src="https://img.shields.io/badge/discord me-%231DA1F3.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
   </a>&nbsp;&nbsp;
 </p>
-
+<!--
 ## About Me
 
 <article class="markdown-body entry-content container-lg f5" itemprop="text"><p dir="auto"><g-emoji class="g-emoji" alias="sparkles" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2728.png">✨</g-emoji> Full-Stack Blockchain developer specialized in DeFi and Solidity <g-emoji class="g-emoji" alias="sparkles" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2728.png">✨</g-emoji></p>
@@ -72,7 +72,7 @@
 [![Graphql](https://img.shields.io/badge/-Graph_QL-ff1493?style=for-the-badge&logo=graphql&logoColor=white)]()
 [![Docker](https://img.shields.io/badge/-Docker-2496ed?style=for-the-badge&logo=docker&logoColor=white)]()
 
-<!--
+
 ## Experience
 
 - Defi ECO protocols
@@ -232,7 +232,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
+-->
 
 <div class="Box-body p-4">
   <article class="markdown-body entry-content container-lg f5" itemprop="text">
@@ -288,4 +288,4 @@ Here are some ideas to get you started:
     </p>
   </article>
 </div>
--->
+
