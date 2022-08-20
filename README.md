@@ -3,7 +3,7 @@
 Passionate, creative and proactive developer who love coding.
 
 ✅ Web
--  Javascript, Typescript, PHP 
+-  Html, Css, Javascript, Typescript, PHP 
 -  MERN stack (MongoDB|Express|React|Node)
 -  React (Context API | Redux | Redux toolkit | React Hook), Vue, Angular, Next, Nuxt
 -  Rest API, GraphQL
