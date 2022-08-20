@@ -3,7 +3,12 @@
 Passionate, creative and proactive developer who love coding.
 
 ✅ Web
--  MERN stack, Javascript, Typescript, Vue, Next, Nuxt, PHP, Laravel, CodeIgniter, Rest API, GraphQL, Mysql, MongDB, PostgreSQL
+-  Javascript, Typescript, PHP 
+-  MERN stack (MongoDB|Express|React|Node)
+-  React (Context API | Redux | Redux toolkit | React Hook), Vue, Angular, Next, Nuxt
+-  Rest API, GraphQL
+-  Laravel, CodeIgniter
+-  Mysql, MongDB, PostgreSQL, MSSQL, Oracle
 
 ✅ Mobile
 -  Native iOS/Android, Hybrid  with Ionic, Cordova, React Native, Flutter, Xamarin.
