@@ -2,11 +2,16 @@
 
 Passionate, creative and proactive developer who love coding.
 
-✅  Html, Css, Javascript, Typescript, PHP 
-✅  React (Context API | Redux | Redux toolkit | React Hook), Next, Vue, Nuxt
-✅  Rest API, GraphQL
-✅  Express, Nest, Laravel
-✅  MongDB, PostgreSQL, Mysql, Oracle
+ ✅  Html, Css, Javascript, Typescript, PHP 
+ 
+ ✅  React (Context API | Redux | Redux toolkit | React Hook), Next, Vue, Nuxt
+ 
+ ✅  Rest API, GraphQL
+ 
+ ✅  Express, Nest, Laravel
+ 
+ ✅  MongDB, PostgreSQL, Mysql, Oracle
+ 
 
 <p align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=smartcodeblockchaindev&row=1&column=7&theme=gruvbox&margin-w=15&margin-h=15"/>
