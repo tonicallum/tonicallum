@@ -2,23 +2,11 @@
 
 Passionate, creative and proactive developer who love coding.
 
-✅ Web
--  Html, Css, Javascript, Typescript, PHP 
--  MERN stack (MongoDB|Express|React|Node)
--  React (Context API | Redux | Redux toolkit | React Hook), Vue, Angular, Next, Nuxt
--  Rest API, GraphQL
--  Laravel, CodeIgniter
--  Mysql, MongDB, PostgreSQL, MSSQL, Oracle
-
-✅ Mobile
--  Native iOS/Android, Hybrid  with Ionic, Cordova, React Native, Flutter, Xamarin.
-
-✅ Blockchain
--  Ethereum, Smart Contract, Solidiity, Web3.js, ERC20, ERC721, ERC1155, Openzeppelin, Truffle, Hardhat.
--  Binance Smart Chain, Smart Contract, Solidity, Web3.js, BEP20, BEP721, BEP1155
--  Solana, Program, Rust, SPL Token, Anchor, Metaplex, Candy Machine
--  Uniswap Fork, Pancakeswap Fork, Olympus Dao Fork
--  Bigchaindb, Graphprotocol, Crypto payment Integration
+✅  Html, Css, Javascript, Typescript, PHP 
+✅  React (Context API | Redux | Redux toolkit | React Hook), Next, Vue, Nuxt
+✅  Rest API, GraphQL
+✅  Express, Nest, Laravel
+✅  MongDB, PostgreSQL, Mysql, Oracle
 
 <p align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=smartcodeblockchaindev&row=1&column=7&theme=gruvbox&margin-w=15&margin-h=15"/>
