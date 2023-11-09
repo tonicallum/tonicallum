@@ -1,10 +1,9 @@
 ## Welcome to my Github!
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&size=40&pause=1000&center=true&vCenter=true&width=600&height=100&lines=Full+Stack+Web+Developer;8+years+of+experience;Always+learning+new+technologies" alt="Typing SVG" /></a>
 
- ✅  Html, Css, Javascript, Typescript, PHP 
+ ✅  Next.js, Web3.js, Solidity, Smart Contract
  
- ✅  React (Context API | Redux | Redux toolkit | React Hook), Next, Vue, Nuxt
+ ✅  React (Context API | Redux | Redux toolkit | React Hook), Vue, Nuxt
  
  ✅  Rest API, GraphQL
  
