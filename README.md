@@ -3,7 +3,7 @@
 
  ✅  Next.js, Web3.js, Solidity, Smart Contract
  
- ✅  React (Context API | Redux | Redux toolkit | React Hook), Vue, Nuxt
+ ✅  React (Context API | Redux | Redux toolkit | React Hook), Vue, Nuxt, Node.js
  
  ✅  Rest API, GraphQL
  
