@@ -1,7 +1,7 @@
 ## Welcome to my Github!
 
 
- ✅  Next.js, Web3.js, Solidity, Smart Contract
+ ✅  Next.js, Web3.js, Solidity, Rust, Smart Contract
  
  ✅  React (Context API | Redux | Redux toolkit | React Hook), Vue, Nuxt, Node.js
  
