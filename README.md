@@ -11,11 +11,6 @@
  
  ✅  MongDB, PostgreSQL, Mysql, Oracle
  
-<div align="center">
- 
-![](./code.gif)
-
-</div>
 
 
 
